@@ -5,25 +5,25 @@
                 "key": "kunyu77",
                 "name": "🐳七七",
                 "type": 3,
-                "api": "kunyu77_open.js"
+                "api": "./kunyu77_open.js"
             },
             {
                 "key": "ikanbot",
                 "name": "📹爱看",
                 "type": 3,
-                "api": "ikanbot_open.js"
+                "api": "./ikanbot_open.js"
             },
             {
                 "key": "kkys",
                 "name": "🎬快看",
                 "type": 3,
-                "api": "kkys_open.js"
+                "api": "./kkys_open.js"
             },
             {
                 "key": "ng",
                 "name": "🎃南瓜",
                 "type": 3,
-                "api": "ng_open.js"
+                "api": "./ng_open.js"
             },
             {
                 "key": "yaya",
@@ -50,7 +50,7 @@
                 "key": "555",
                 "name": "☘️三五",
                 "type": 3,
-                "api": "AppYsV2.js",
+                "api": "./AppYsV2.js",
                 "ext": "https://555dy3.com/api.php/app/"
             },
             {
@@ -246,13 +246,13 @@
                 "key": "libvio",
                 "name": "🏺立播",
                 "type": 3,
-                "api": "libvio_open.js"
+                "api": "./libvio_open.js"
             },
             {
                 "key": "kuqimv",
                 "name": "🎤酷奇",
                 "type": 3,
-                "api": "kuqimv_open.js"
+                "api": "./kuqimv_open.js"
             },
             {
                 "key": "yqktv",
@@ -264,13 +264,13 @@
                 "key": "bili",
                 "name": "🎧哔O",
                 "type": 3,
-                "api": "mybili_open.js"
+                "api": "./mybili_open.js"
             },
             {
                 "key": "bili_open",
                 "name": "🎧哔T",
                 "type": 3,
-                "api": "bili_open.js",
+                "api": "./bili_open.js",
                 "style": {
                     "type": "rect",
                     "ratio": 1.597
@@ -284,31 +284,31 @@
                 "key": "czzy",
                 "name": "🏭厂长",
                 "type": 3,
-                "api": "czzy_open.js"
+                "api": "./czzy_open.js"
             },
             {
                 "key": "czzy2",
                 "name": "🥇厂长",
                 "type": 3,
-                "api": "czzy2_open.js"
+                "api": "./czzy2_open.js"
             },
             {
                 "key": "czzy3",
                 "name": "🥈厂长",
                 "type": 3,
-                "api": "czzy3_open.js"
+                "api": "./czzy3_open.js"
             },
             {
                 "key": "sharenice",
                 "name": "🐲视频",
                 "type": 3,
-                "api": "sharenice_open.js"
+                "api": "./sharenice_open.js"
             },
             {
                 "key": "ggwo",
                 "name": "🧸偶玩",
                 "type": 3,
-                "api": "wogg_open.js",
+                "api": "./wogg_open.js",
                 "ext": "b809f7cfb2c64a68bbd8e2fe84514ef0"
             },
             {
@@ -322,19 +322,19 @@
                 "key": "subaibai",
                 "name": "☁️素白",
                 "type": 3,
-                "api": "subaibai_open.js"
+                "api": "./subaibai_open.js"
             },
             {
                 "key": "duboku",
                 "name": "🛫库一",
                 "type": 3,
-                "api": "duboku_open.js"
+                "api": "./duboku_open.js"
             },
             {
                 "key": "duboku2",
                 "name": "🛫库二",
                 "type": 3,
-                "api": "duboku2_open.js"
+                "api": "./duboku2_open.js"
             },
             {
                 "key": "haiwaikan",
@@ -354,68 +354,68 @@
                 "key": "nivod",
                 "name": "🛫泥巴",
                 "type": 3,
-                "api": "nivod_op.js",
+                "api": "./nivod_op.js",
                 "ext": "888解忧愁"
             },
             {
                 "key": "230ts",
                 "name": "🎼听书",
                 "type": 3,
-                "api": "230ts_open.js"
+                "api": "./230ts_open.js"
             },
             {
                 "key": "zxzj",
                 "name": "📽在线",
                 "type": 3,
-                "api": "zxzj_open.js"
+                "api": "./zxzj_open.js"
             },
             {
                 "key": "0809",
                 "name": "📼听歌",
                 "type": 3,
-                "api": "dj0898_open.js"
+                "api": "./dj0898_open.js"
             },
             {
                 "key": "tuxiaobei",
                 "name": "🐚小贝",
                 "type": 3,
-                "api": "tuxiaobei_open.js"
+                "api": "./tuxiaobei_open.js"
             },
             {
                 "key": "cntv",
                 "name": "🖥电视",
                 "type": 3,
-                "api": "cntv_open.js"
+                "api": "./cntv_open.js"
             },
             {
                 "key": "ubestkid",
                 "name": "🐯乐虎",
                 "type": 3,
-                "api": "ubestkid_open.js"
+                "api": "./ubestkid_open.js"
             },
             {
                 "key": "boosj",
                 "name": "🐰童趣",
                 "type": 3,
-                "api": "boosj_open.js"
+                "api": "./boosj_open.js"
             },
             {
                 "key": "18av",
                 "name": "®️仙女",
                 "type": 3,
-                "api": "18av_open.js"
+                "api": "./18av_open.js"
             },
             {
                 "key": "mtsp",
                 "name": "®️蜜桃",
                 "type": 3,
-                "api": "mtsp_open.js"
+                "api": "./mtsp_open.js"
             },
             {
                 "key": "mtsp2",
                 "name": "®️蜜桃(备用)",
                 "type": 3,
-                "api": "mtsp2_open.js"
+                "api": "./mtsp2_open.js"
             },
             {
                 "key": "madouse",
@@ -1286,25 +1286,25 @@
                 "key": "bookan",
                 "name": "🎧博看",
                 "type": 10,
-                "api": "bookan_open.js"
+                "api": "./bookan_open.js"
             },
             {
                 "key": "laobai",
                 "name": "⚾老白",
                 "type": 10,
-                "api": "lbgs_open.js"
+                "api": "./lbgs_open.js"
             },
             {
                 "key": "230ts",
                 "name": "💓爱上",
                 "type": 10,
-                "api": "230ts_book_open.js"
+                "api": "./230ts_book_open.js"
             },
             {
                 "key": "dj0898",
                 "name": "🥏听歌",
                 "type": 10,
-                "api": "dj0898_book_open.js"
+                "api": "./dj0898_book_open.js"
             }
         ]
     },
@@ -1314,7 +1314,7 @@
                 "key": "alist",
                 "name": "Alist",
                 "type": 40,
-                "api": "alist_open.js",
+                "api": "./alist_open.js",
                 "ext": [
                     {
                         "name": "🙋丫仙女",
