@@ -3,10 +3,10 @@
 	"api": "https://haiwaikan.com/api.php/provide/vod/"
 }, {
 	"name": "紅牛資源",
-	"api": "https://www.hongniuzy2.com/api.php/provide/vod/from/hnm3u8/"
+	"api": "https://www.hongniuzy2.com/api.php/provide/vod/"
 }, {
 	"name": "量子資源",
-	"api": "https://cj.lziapi.com/api.php/provide/vod/from/lzm3u8/"
+	"api": "https://cj.lziapi.com/api.php/provide/vod/"
 }, {
 	"name": "開放電影",
 	"api": "https://vod-demo.onrender.com/pubdovod.php"
@@ -51,13 +51,13 @@
 	"api": "https://apittzy.com/api.php/provide/vod/"
 }, {
 	"name": "閃電資源",
-	"api": "https://sdzyapi.com/api.php/provide/vod/from/sdm3u8/"
+	"api": "https://sdzyapi.com/api.php/provide/vod/"
 }, {
 	"name": "金鹰资源",
-	"api": "https://jyzyapi.com/provide/vod/from/jinyingm3u8/"
+	"api": "https://jyzyapi.com/provide/vod/"
 }, {
 	"name": "光速资源",
-	"api": "https://api.guangsuapi.com/api.php/provide/vod/from/gsm3u8/"
+	"api": "https://api.guangsuapi.com/api.php/provide/vod/"
 }, {
 	"name": "奥斯卡资源网",
 	"api": "https://aosikazy.com/api.php/provide/vod/"
@@ -102,7 +102,7 @@
 	"api": "https://siwazyw.cc/api.php/provide/vod/"
 }, {
 	"name": "天空資源",
-	"api": "https://m3u8.tiankongapi.com/api.php/provide/vod/from/tkm3u8/"
+	"api": "https://m3u8.tiankongapi.com/api.php/provide/vod/"
 }, {
 	"name": "探探",
 	"api": "https://apittzy.com/api.php/provide/vod/"
@@ -168,7 +168,7 @@
 	"api": "https://api.sexnguon.com/api.php/provide/vod/"
 }, {
 	"name": "大地",
-	"api": "https://dadiapi.com/api.php/provide/vod/at/json"
+	"api": "https://dadiapi.com/api.php/provide/vod/"
 }, {
 	"name": "色窝",
 	"api": "https://sewozyapi.com/api.php/provide/vod/"
