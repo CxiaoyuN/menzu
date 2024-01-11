@@ -11,7 +11,7 @@
             },
             {
                 "name": "🍅番茄",
-                "type": 1,
+                "type": "json",
                 "api": "http://zy.xiaomaomi.cc/api.php/provide/vod/"
             },
             {
