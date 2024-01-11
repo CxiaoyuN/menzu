@@ -1,0 +1,72 @@
+[
+            {
+                "name": "🚄索尼",
+                "type": "json",
+                "api": "https://suoniapi.com/api.php/provide/vod/from/snm3u8/"
+            },
+            {
+                "name": "🎩U酷",
+                "type": "json",
+                "api": "https://api.ukuapi.com/api.php/provide/vod/at/json"
+            },
+            {
+                "name": "🍅番茄",
+                "type": 1,
+                "api": "http://zy.xiaomaomi.cc/api.php/provide/vod/"
+            },
+            {
+                "name": "🦅金鹰",
+                "type": "json",
+                "api": "https://jinyingzy.com/provide/vod/from/jinyingm3u8/"
+            },
+            {
+                "name": "⛵快帆",
+                "type": "json",
+                "api": "https://api.kuaifan.tv/api.php/provide/vod"
+            },
+            {
+                "name": "☄️光速",
+                "type": "json",
+                "api": "http://api.guangsuapi.com/api.php/provide/vod/from/gsm3u8/"
+            },
+            {
+                "name": "🌊新浪",
+                "type": "json",
+                "api": "https://api.xinlangapi.com/xinlangapi.php/provide/vod/from/xlm3u8"
+            },
+            {
+                "name": "🔬量子",
+                "type": "json",
+                "api": "https://cj.lziapi.com/api.php/provide/vod/from/lzm3u8"
+            },
+            {
+                "name": "🏆非凡",
+                "type": "json",
+                "api": "https://cj.ffzyapi.com/api.php/provide/vod/from/ffm3u8/"
+            },
+            {
+                "name": "🌪暴风",
+                "type": "json",
+                "api": "https://bfzyapi.com/api.php/provide/vod/"
+            },
+            {
+                "name": "🎑影图",
+                "type": "json",
+                "api": "https://cj.vodimg.top/api.php/provide/vod/at/json"
+            },
+            {
+                "name": "✈️飞速",
+                "type": "json",
+                "api": "https://www.feisuzyapi.com/api.php/provide/vod/from/fsm3u8/"
+            },
+            {
+                "name": "🐝蜜蜂",
+                "type": "json",
+                "api": "https://www.beeyao.com/api.php/provide/vod/at/json"
+            },
+            { 
+                "name": "🎛️明星",
+                "type": "json",
+                "api": "https://mv.wogg.link/mv/vod"
+			}
+  ]
