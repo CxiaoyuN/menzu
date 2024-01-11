@@ -1,580 +1,580 @@
 [
             {
                 "name": "🚄索尼",
-                "ext": "https://suoniapi.com/api.php/provide/vod/from/snm3u8/"
+                "api": "https://suoniapi.com/api.php/provide/vod/from/snm3u8/"
             },
             {
                 "name": "🎩U酷",
-                "ext": "https://api.ukuapi.com/api.php/provide/vod/at/json"
+                "api": "https://api.ukuapi.com/api.php/provide/vod/at/json"
             },
             {
                 "name": "🍅番茄",
-                "ext": "http://zy.xiaomaomi.cc/api.php/provide/vod/"
+                "api": "http://zy.xiaomaomi.cc/api.php/provide/vod/"
             },
             {
                 "name": "🦅金鹰",
-                "ext": "https://jinyingzy.com/provide/vod/from/jinyingm3u8/"
+                "api": "https://jinyingzy.com/provide/vod/from/jinyingm3u8/"
             },
             {
                 "name": "⛵快帆",
-                "ext": "https://api.kuaifan.tv/api.php/provide/vod"
+                "api": "https://api.kuaifan.tv/api.php/provide/vod"
             },
             {
                 "name": "☄️光速",
-                "ext": "http://api.guangsuapi.com/api.php/provide/vod/from/gsm3u8/"
+                "api": "http://api.guangsuapi.com/api.php/provide/vod/from/gsm3u8/"
             },
             {
                 "name": "🌊新浪",
-                "ext": "https://api.xinlangapi.com/xinlangapi.php/provide/vod/from/xlm3u8"
+                "api": "https://api.xinlangapi.com/xinlangapi.php/provide/vod/from/xlm3u8"
             },
             {
                 "name": "🔬量子",
-                "ext": "https://cj.lziapi.com/api.php/provide/vod/from/lzm3u8"
+                "api": "https://cj.lziapi.com/api.php/provide/vod/from/lzm3u8"
             },
             {
                 "name": "🏆非凡",
-                "ext": "https://cj.ffzyapi.com/api.php/provide/vod/from/ffm3u8/"
+                "api": "https://cj.ffzyapi.com/api.php/provide/vod/from/ffm3u8/"
             },
             {
                 "name": "🌪暴风",
-                "ext": "https://bfzyapi.com/api.php/provide/vod/"
+                "api": "https://bfzyapi.com/api.php/provide/vod/"
             },
             {
                 "name": "🎑影图",
-                "ext": "https://cj.vodimg.top/api.php/provide/vod/at/json"
+                "api": "https://cj.vodimg.top/api.php/provide/vod/at/json"
             },
             {
                 "name": "✈️飞速",
-                "ext": "https://www.feisuzyapi.com/api.php/provide/vod/from/fsm3u8/"
+                "api": "https://www.feisuzyapi.com/api.php/provide/vod/from/fsm3u8/"
             },
             {
                 "name": "🐝蜜蜂",
-                "ext": "https://www.beeyao.com/api.php/provide/vod/at/json"
+                "api": "https://www.beeyao.com/api.php/provide/vod/at/json"
             },
             { 
                 "name": "🎛️明星",
-                "ext": "https://mv.wogg.link/mv/vod"
+                "api": "https://mv.wogg.link/mv/vod"
             },
             {
                 "name": "🛫海外",
-                "ext": "http://api.haiwaikan.com/v1/vod?ac=list"
+                "api": "http://api.haiwaikan.com/v1/vod?ac=list"
             },
             {
                 "name": "🛫乐活",
-                "ext": "https://lehootv.com/api.php/provide/vod/at/json"
+                "api": "https://lehootv.com/api.php/provide/vod/at/json"
             },
             {
                 "name": "R影[不卡]",
-                "ext": "https://www.bukazyw.com/api.php/provide/vod/"
+                "api": "https://www.bukazyw.com/api.php/provide/vod/"
             },
             {
                 "name": "R影[麻豆]",
-                "ext": "http://wuxu.cc/api.php/provide/vod/from/mdm3u8/"
+                "api": "http://wuxu.cc/api.php/provide/vod/from/mdm3u8/"
             },
             {
                 "name": "R影[果冻]",
-                "ext": "http://madouse.cc/api.php/provide/vod/at/json"
+                "api": "http://madouse.cc/api.php/provide/vod/at/json"
             },
             {
                 "name": "R影[小草]",
-                "ext": "https://www.caoliuzyw.com/api.php/provide/vod/at/json/"
+                "api": "https://www.caoliuzyw.com/api.php/provide/vod/at/json/"
             },
             {
                 "name": "R影[精东]",
-                "ext": "http://chujia.cc/api.php/provide/vod/from/m3u8/"
+                "api": "http://chujia.cc/api.php/provide/vod/from/m3u8/"
             },
             {
                 "name": "R影[辣椒]",
-                "ext": "https://apilj.com/api.php/provide/vod/at/json/"
+                "api": "https://apilj.com/api.php/provide/vod/at/json/"
             },
             {
                 "name": "️R影[易看]",
-                "ext": "https://api.yikanapi.com/api.php/provide/vod/at/json"
+                "api": "https://api.yikanapi.com/api.php/provide/vod/at/json"
             },
             {
                 "name": "R影[极品]",
-                "ext": "https://jpzy.me/api.php/provide/vod/"
+                "api": "https://jpzy.me/api.php/provide/vod/"
             },
             {
                 "name": "官方[六优]",
-                "ext": "http://www.6uzy.cc/inc/apijson_vod.php"
+                "api": "http://www.6uzy.cc/inc/apijson_vod.php"
             },
             {
                 "name": "官方[天堂]",
-                "ext": "http://vipmv.cc/api.php/provide/vod/at/json"
+                "api": "http://vipmv.cc/api.php/provide/vod/at/json"
             },
             {
                 "name": "官方[明帝]",
-                "ext": "https://ys.md214.cn/api.php/provide/vod/at/json"
+                "api": "https://ys.md214.cn/api.php/provide/vod/at/json"
             },
             {
                 "name": "官方[至圣]",
-                "ext": "http://82.156.40.118:1234/api.php/provide/vod/at/json"
+                "api": "http://82.156.40.118:1234/api.php/provide/vod/at/json"
             },
             {
                 "name": "官搜[琪琪]",
-                "ext": "http://www.csykkj.club/api.php/provide/vod/"
+                "api": "http://www.csykkj.club/api.php/provide/vod/"
             },
             {
                 "name": "影视[映迷]",
-                "ext": "https://www.inmi.app/api.php/provide/vod/at/json"
+                "api": "https://www.inmi.app/api.php/provide/vod/at/json"
             },
             {
                 "name": "影视[三九]",
-                "ext": "https://www.39kan.com/api.php/provide/vod/at/json"
+                "api": "https://www.39kan.com/api.php/provide/vod/at/json"
             },
             {
                 "name": "影视[飘花]",
-                "ext": "http://www.zzrhgg.com/api.php/provide/vod/at/json"
+                "api": "http://www.zzrhgg.com/api.php/provide/vod/at/json"
             },
             {
                 "name": "影视[四九]",
-                "ext": "https://49zyw.com/api.php/provide/vod/at/json"
+                "api": "https://49zyw.com/api.php/provide/vod/at/json"
             },
             {
                 "name": "影视[六八]",
-                "ext": "https://68zy88.com/api.php/provide/vod/at/json"
+                "api": "https://68zy88.com/api.php/provide/vod/at/json"
             },
             {
                 "name": "影视[速博]",
-                "ext": "https://subocaiji.com/api.php/provide/vod/at/json"
+                "api": "https://subocaiji.com/api.php/provide/vod/at/json"
             },
             {
                 "name": "影视[虎牙]",
-                "ext": "https://www.huyaapi.com/api.php/provide/vod/at/json"
+                "api": "https://www.huyaapi.com/api.php/provide/vod/at/json"
             },
             {
                 "name": "影视[夸克]",
-                "ext": "http://kuakezy1.com/api.php/provide/vod/at/json"
+                "api": "http://kuakezy1.com/api.php/provide/vod/at/json"
             },
             {
                 "name": "影视[奇虎]",
-                "ext": "https://caiji.qhzyapi.com/api.php/provide/vod/at/json"
+                "api": "https://caiji.qhzyapi.com/api.php/provide/vod/at/json"
             },
             {
                 "name": "影视[豌豆]",
-                "ext": "https://ks.wandouzy.cc/api.php/provide/vod/at/json"
+                "api": "https://ks.wandouzy.cc/api.php/provide/vod/at/json"
             },
             {
                 "name": "影视[极光]",
-                "ext": "https://jiguang.la/api.php/provide/vod/at/json"
+                "api": "https://jiguang.la/api.php/provide/vod/at/json"
             },
             {
                 "name": "影视[华为]",
-                "ext": "https://hw8.live/api.php/provide/vod/at/json"
+                "api": "https://hw8.live/api.php/provide/vod/at/json"
             },
             {
                 "name": "影视[熊掌]",
-                "ext": "https://xzcjz.com/api.php/provide/vod/at/json"
+                "api": "https://xzcjz.com/api.php/provide/vod/at/json"
             },
             {
                 "name": "影视[可可]",
-                "ext": "https://caiji.kekezyapi.com/api.php/provide/vod/at/json"
+                "api": "https://caiji.kekezyapi.com/api.php/provide/vod/at/json"
             },
             {
                 "name": "影视[享看]",
-                "ext": "https://xkanzy10.com/api.php/provide/vod/at/json"
+                "api": "https://xkanzy10.com/api.php/provide/vod/at/json"
             },
             {
                 "name": "影视[大漠]",
-                "ext": "https://damozy.com/api.php/provide/vod/at/json"
+                "api": "https://damozy.com/api.php/provide/vod/at/json"
             },
             {
                 "name": "影视[快看]",
-                "ext": "https://kuaikan-api.com/api.php/provide/vod/at/json"
+                "api": "https://kuaikan-api.com/api.php/provide/vod/at/json"
             },
             {
                 "name": "影视[快云]",
-                "ext": "https://www.kuaiyunzy.com/api.php/provide/vod/at/json"
+                "api": "https://www.kuaiyunzy.com/api.php/provide/vod/at/json"
             },
             {
                 "name": "影视[极速]",
-                "ext": "https://jszyapi.com/api.php/provide/vod/at/json"
+                "api": "https://jszyapi.com/api.php/provide/vod/at/json"
             },
             {
                 "name": "影视[火狐]",
-                "ext": "https://hhzyapi.com/api.php/provide/vod/at/json"
+                "api": "https://hhzyapi.com/api.php/provide/vod/at/json"
             },
             {
                 "name": "影视[爱坤]",
-                "ext": "https://ikunzyapi.com/api.php/provide/vod/at/json"
+                "api": "https://ikunzyapi.com/api.php/provide/vod/at/json"
             },
             {
                 "name": "影视[四二]",
-                "ext": "https://www.42.la/api.php/provide/vod/from/42m3u8/at/json"
+                "api": "https://www.42.la/api.php/provide/vod/from/42m3u8/at/json"
             },
             {
                 "name": "影视[快车]",
-                "ext": "https://caiji.kczyapi.com/api.php/provide/vod/at/json"
+                "api": "https://caiji.kczyapi.com/api.php/provide/vod/at/json"
             },
             {
                 "name": "影视[卧龙]",
-                "ext": "https://collect.wolongzyw.com/api.php/provide/vod/"
+                "api": "https://collect.wolongzyw.com/api.php/provide/vod/"
             },
             {
                 "name": "影视[樱花]",
-                "ext": "https://m3u8.apiyhzy.com/api.php/provide/vod/at/json"
+                "api": "https://m3u8.apiyhzy.com/api.php/provide/vod/at/json"
             },
             {
                 "name": "影视[闪电]",
-                "ext": "http://sdzyapi.com/api.php/provide/vod/at/json"
+                "api": "http://sdzyapi.com/api.php/provide/vod/at/json"
             },
             {
                 "name": "影视[韩剧]",
-                "ext": "http://www.hanjuzy.com/inc/apijson_vod.php"
+                "api": "http://www.hanjuzy.com/inc/apijson_vod.php"
             },
             {
                 "name": "影视[八戒]",
-                "ext": "http://cj.bajiecaiji.com/inc/apijson_vod.php"
+                "api": "http://cj.bajiecaiji.com/inc/apijson_vod.php"
             },
             {
                 "name": "影视[神马]",
-                "ext": "https://img.smdyw.top/api.php/provide/vod/"
+                "api": "https://img.smdyw.top/api.php/provide/vod/"
             },
             {
                 "name": "影视[百度]",
-                "ext": "https://api.apibdzy.com/api.php/provide/vod/at/json"
+                "api": "https://api.apibdzy.com/api.php/provide/vod/at/json"
             },
             {
                 "name": "影视[无尽]",
-                "ext": "https://api.wujinapi.net/api.php/provide/vod/at/json"
+                "api": "https://api.wujinapi.net/api.php/provide/vod/at/json"
             },
             {
                 "name": "影视[天空]",
-                "ext": "https://api.tiankongapi.com/api.php/provide/vod/at/json"
+                "api": "https://api.tiankongapi.com/api.php/provide/vod/at/json"
             },
             {
                 "name": "影视[四圈]",
-                "ext": "https://pg.fenwe078.cf/api.php/provide/vod/at/json"
+                "api": "https://pg.fenwe078.cf/api.php/provide/vod/at/json"
             },
             {
                 "name": "影视[人人]",
-                "ext": "https://www.rrvipw.com/api.php/provide/vod/at/json"
+                "api": "https://www.rrvipw.com/api.php/provide/vod/at/json"
             },
             {
                 "name": "影视[小小]",
-                "ext": "http://haowywz.com/api.php/provide/vod/at/json"
+                "api": "http://haowywz.com/api.php/provide/vod/at/json"
             },
             {
                 "name": "影视[飘零]",
-                "ext": "https://p2100.net/api.php/provide/vod/at/json"
+                "api": "https://p2100.net/api.php/provide/vod/at/json"
             },
             {
                 "name": "影视[新马]",
-                "ext": "https://movie.gsl99.com/api.php/provide/vod/at/json"
+                "api": "https://movie.gsl99.com/api.php/provide/vod/at/json"
             },
             {
                 "name": "影视[飞飞]",
-                "ext": "http://www.feifei67.com/api.php/provide/vod/at/json"
+                "api": "http://www.feifei67.com/api.php/provide/vod/at/json"
             },
             {
                 "name": "影视[天天]",
-                "ext": "http://47.113.126.237:1234/api.php/provide/vod"
+                "api": "http://47.113.126.237:1234/api.php/provide/vod"
             },
             {
                 "name": "影视[嗨看]",
-                "ext": "https://zy.hikan.xyz/api.php/provide/vod/at/json"
+                "api": "https://zy.hikan.xyz/api.php/provide/vod/at/json"
             },
             {
                 "name": "R影[狼友]",
-                "ext": "https://api.lyhapi.com/api.php/provide/vod/"
+                "api": "https://api.lyhapi.com/api.php/provide/vod/"
             },
             {
                 "name": "R影[十八]",
-                "ext": "https://www.zy018.com/api.php/provide/vod/at/json"
+                "api": "https://www.zy018.com/api.php/provide/vod/at/json"
             },
             {
                 "name": "R影[九色]",
-                "ext": "https://9szy.net/api.php/provide/vod/at/json"
+                "api": "https://9szy.net/api.php/provide/vod/at/json"
             },
             {
                 "name": "R影[快爱]",
-                "ext": "http://kuaiavzy.com/api.php/provide/vod/at/json"
+                "api": "http://kuaiavzy.com/api.php/provide/vod/at/json"
             },
             {
                 "name": "R影[KOK]",
-                "ext": "https://api.vodkok2.com/api.php/provide/vod/at/json"
+                "api": "https://api.vodkok2.com/api.php/provide/vod/at/json"
             },
             {
                 "name": "R影[猫咪]",
-                "ext": "https://api.maozyapi.com/inc/apijson_vod.php"
+                "api": "https://api.maozyapi.com/inc/apijson_vod.php"
             },
             {
                 "name": "R影[袜丝]",
-                "ext": "https://www.siwazyw.tv/api.php/provide/vod/at/json"
+                "api": "https://www.siwazyw.tv/api.php/provide/vod/at/json"
             },
             {
                 "name": "R影[丝袜]",
-                "ext": "https://haiwai.siwazyw.org/api.php/provide/vod/at/json"
+                "api": "https://haiwai.siwazyw.org/api.php/provide/vod/at/json"
             },
             {
                 "name": "R影[鲨鱼]",
-                "ext": "https://shayuapi.com/api.php/provide/vod/"
+                "api": "https://shayuapi.com/api.php/provide/vod/"
             },
             {
                 "name": "R影[老鸭]",
-                "ext": "https://api.apilyzy.com/api.php/provide/vod/at/json"
+                "api": "https://api.apilyzy.com/api.php/provide/vod/at/json"
             },
             {
                 "name": "R影[涩窝]",
-                "ext": "https://sewozyapi.com/api.php/provide/vod"
+                "api": "https://sewozyapi.com/api.php/provide/vod"
             },
             {
                 "name": "R影[色猫]",
-                "ext": "https://caiji.semaozy.net/inc/apijson_vod.php"
+                "api": "https://caiji.semaozy.net/inc/apijson_vod.php"
             },
             {
                 "name": "R影[花色]",
-                "ext": "http://198.211.49.156/api.php/provide/vod/at/json"
+                "api": "http://198.211.49.156/api.php/provide/vod/at/json"
             },
             {
                 "name": "R影[葡萄]",
-                "ext": "https://caiji.putaozyw.net/inc/apijson_vod.php"
+                "api": "https://caiji.putaozyw.net/inc/apijson_vod.php"
             },
             {
                 "name": "R影[滴滴]",
-                "ext": "https://api.ddapi.cc/api.php/provide/vod/at/json"
+                "api": "https://api.ddapi.cc/api.php/provide/vod/at/json"
             },
             {
                 "name": "R影[️雪豹]",
-                "ext": "https://api.xbapi.cc/api.php/provide/vod/at/json"
+                "api": "https://api.xbapi.cc/api.php/provide/vod/at/json"
             },
             {
                 "name": "R影[伊人]",
-                "ext": "https://api.yirenziyuan.com/api.php/provide/vod/at/json"
+                "api": "https://api.yirenziyuan.com/api.php/provide/vod/at/json"
             },
             {
                 "name": "R影[开云]",
-                "ext": "https://kaiyunzy5.com/inc/apijson_vod.php"
+                "api": "https://kaiyunzy5.com/inc/apijson_vod.php"
             },
             {
                 "name": "R影[色鸭]",
-                "ext": "https://api.seyavod.com/api.php/provide/vod/at/json"
+                "api": "https://api.seyavod.com/api.php/provide/vod/at/json"
             },
             {
                 "name": "R影[极致]",
-                "ext": "https://jizhiapi.com/api.php/provide/vod/at/json"
+                "api": "https://jizhiapi.com/api.php/provide/vod/at/json"
             },
             {
                 "name": "R影[甜蜜]",
-                "ext": "https://timizy10.cc/api.php/provide/vod/at/json"
+                "api": "https://timizy10.cc/api.php/provide/vod/at/json"
             },
             {
                 "name": "R影[奶香]",
-                "ext": "https://naixxzy.com/api.php/provide/vod/at/json"
+                "api": "https://naixxzy.com/api.php/provide/vod/at/json"
             },
             {
                 "name": "R影[奥斯]",
-                "ext": "https://aosikazy.com/api.php/provide/vod/?ac=list"
+                "api": "https://aosikazy.com/api.php/provide/vod/?ac=list"
             },
             {
                 "name": "R影[色南]",
-                "ext": "https://api.sexnguon.com/api.php/provide/vod/at/json"
+                "api": "https://api.sexnguon.com/api.php/provide/vod/at/json"
             },
             {
                 "name": "R影[蛋蛋]",
-                "ext": "http://156.249.29.8/inc/apijson_vod.php"
+                "api": "http://156.249.29.8/inc/apijson_vod.php"
             },
             {
                 "name": "R影[写真]",
-                "ext": "https://kkzy.me/api.php/provide/vod/at/json"
+                "api": "https://kkzy.me/api.php/provide/vod/at/json"
             },
             {
                 "name": "R影[色棍]",
-                "ext": "http://api.sexnguon.com/api.php/provide/vod/"
+                "api": "http://api.sexnguon.com/api.php/provide/vod/"
             },
             {
                 "name": "R影[美天]",
-                "ext": "http://www.tianmei.pw/api.php/provide/vod/from/m3u8/"
+                "api": "http://www.tianmei.pw/api.php/provide/vod/from/m3u8/"
             },
             {
                 "name": "R影[天美]",
-                "ext": "https://tmyy.cc/api.php/provide/vod/from/m3u8/"
+                "api": "https://tmyy.cc/api.php/provide/vod/from/m3u8/"
             },
             {
                 "name": "R影[萝莉]",
-                "ext": "https://api.g14o.cc/api.php/provide/vod/at/json"
+                "api": "https://api.g14o.cc/api.php/provide/vod/at/json"
             },
             {
                 "name": "R影[博民]",
-                "ext": "https://www.bominzy.com/api.php/provide/vod/at/json"
+                "api": "https://www.bominzy.com/api.php/provide/vod/at/json"
             },
             {
                 "name": "R影[橘猫]",
-                "ext": "https://to.to-long.com/api.php/provide/vod/at/json"
+                "api": "https://to.to-long.com/api.php/provide/vod/at/json"
             },
             {
                 "name": "R影[九麻]",
-                "ext": "https://91md.me/api.php/provide/vod/"
+                "api": "https://91md.me/api.php/provide/vod/"
             },
             {
                 "name": "R影[玉兔]",
-                "ext": "https://apiyutu.com/api.php/provide/vod/at/json"
+                "api": "https://apiyutu.com/api.php/provide/vod/at/json"
             },
             {
                 "name": "R影[乐播]",
-                "ext": "https://lbapi9.com/api.php/provide/vod/at/json"
+                "api": "https://lbapi9.com/api.php/provide/vod/at/json"
             },
             {
                 "name": "R影[番号]",
-                "ext": "http://fhapi9.com/api.php/provide/vod/at/json"
+                "api": "http://fhapi9.com/api.php/provide/vod/at/json"
             },
             {
                 "name": "R影[桃桃]",
-                "ext": "https://mtav.art/api.php/provide/vod/at/json"
+                "api": "https://mtav.art/api.php/provide/vod/at/json"
             },
             {
                 "name": "R影[七天]",
-                "ext": "https://8day.icu/api.php/provide/vod/at/json"
+                "api": "https://8day.icu/api.php/provide/vod/at/json"
             },
             {
                 "name": "R影[五播]",
-                "ext": "https://5bo1.xyz/api.php/provide/vod/at/json"
+                "api": "https://5bo1.xyz/api.php/provide/vod/at/json"
             },
             {
                 "name": "R影[九一]",
-                "ext": "https://91av.cyou/api.php/provide/vod/at/json"
+                "api": "https://91av.cyou/api.php/provide/vod/at/json"
             },
             {
                 "name": "R影[久爱]",
-                "ext": "http://92free.icu/api.php/provide/vod/at/json"
+                "api": "http://92free.icu/api.php/provide/vod/at/json"
             },
             {
                 "name": "R影[美亚]",
-                "ext": "https://tmav.art/api.php/provide/vod/at/json"
+                "api": "https://tmav.art/api.php/provide/vod/at/json"
             },
             {
                 "name": "R影[色网]",
-                "ext": "https://sezy.website/api.php/provide/vod/at/json"
+                "api": "https://sezy.website/api.php/provide/vod/at/json"
             },
             {
                 "name": "R影[湿园]",
-                "ext": "https://xxavs.com/api.php/provide/vod/at/json"
+                "api": "https://xxavs.com/api.php/provide/vod/at/json"
             },
             {
                 "name": "R影[传媒]",
-                "ext": "https://qqcm.sbs/api.php/provide/vod/at/json"
+                "api": "https://qqcm.sbs/api.php/provide/vod/at/json"
             },
             {
                 "name": "R影[优异]",
-                "ext": "https://a.uezy.pw/api.php/provide/vod/at/json"
+                "api": "https://a.uezy.pw/api.php/provide/vod/at/json"
             },
             {
                 "name": "R影[红袖]",
-                "ext": "https://hongxiuzy.com/api.php/provide/vod/"
+                "api": "https://hongxiuzy.com/api.php/provide/vod/"
             },
             {
                 "name": "R影[色逼]",
-                "ext": "https://apilsbzy1.com/api.php/provide/vod/at/json"
+                "api": "https://apilsbzy1.com/api.php/provide/vod/at/json"
             },
             {
                 "name": "R影[黄色]",
-                "ext": "http://hszy.me/api.php/provide/vod/at/json"
+                "api": "http://hszy.me/api.php/provide/vod/at/json"
             },
             {
                 "name": "R影[好片]",
-                "ext": "https://haopianapi.com/api.php/provide/vod/at/json"
+                "api": "https://haopianapi.com/api.php/provide/vod/at/json"
             },
             {
                 "name": "R影[速看]",
-                "ext": "https://ziyuan.skm3u8.com/api.php/provide/vod/at/json"
+                "api": "https://ziyuan.skm3u8.com/api.php/provide/vod/at/json"
             },
             {
                 "name": "R影[鸡坤]",
-                "ext": "https://jkunzyapi.com/api.php/provide/vod/at/json"
+                "api": "https://jkunzyapi.com/api.php/provide/vod/at/json"
             },
             {
                 "name": "R影[不卡]",
-                "ext": "https://api.bukazyw.fun/api.php/provide/vod/at/json"
+                "api": "https://api.bukazyw.fun/api.php/provide/vod/at/json"
             },
             {
                 "name": "🔍[大豆]",
-                "ext": "https://www.dadou.cm/api.php/provide/vod/"
+                "api": "https://www.dadou.cm/api.php/provide/vod/"
             },
             {
                 "name": "🔍[花旗]",
-                "ext": "https://seacms.huaqi.live/zyapi.php"
+                "api": "https://seacms.huaqi.live/zyapi.php"
             },
             {
                 "name": "🔍[魔都]",
-                "ext": "https://www.moduzy.com/api.php/provide/vod/"
+                "api": "https://www.moduzy.com/api.php/provide/vod/"
             },
             {
                 "name": "🔍[淘片]",
-                "ext": "https://taopianapi.com/cjapi/mc10/vod/json.html"
+                "api": "https://taopianapi.com/cjapi/mc10/vod/json.html"
             },
             {
                 "name": "🔍[最大]",
-                "ext": "https://api.zuidapi.com/api.php/provide/vod/from/zuidam3u8/"
+                "api": "https://api.zuidapi.com/api.php/provide/vod/from/zuidam3u8/"
             },
             {
                 "name": "🔍®️十五",
-                "ext": "https://155api.com/api.php/provide/vod/?ac=list"
+                "api": "https://155api.com/api.php/provide/vod/?ac=list"
             },
             {
                 "name": "🔍®️黄瓜",
-                "ext": "https://www.avre00.com/api.php/provide/vod/?ac=list"
+                "api": "https://www.avre00.com/api.php/provide/vod/?ac=list"
             },
             {
                 "name": "🔍®️芒果",
-                "ext": "https://mgzyz1.com/api.php/provide/vod/at/json"
+                "api": "https://mgzyz1.com/api.php/provide/vod/at/json"
             },
             {
                 "name": "🔍®️八八",
-                "ext": "https://www.888dav.com/api.php/provide/vod/"
+                "api": "https://www.888dav.com/api.php/provide/vod/"
             },
             {
                 "name": "🔍®️天天",
-                "ext": "https://apittzy.com/api.php/provide/vod/at/json"
+                "api": "https://apittzy.com/api.php/provide/vod/at/json"
             },
             {
                 "name": "🔍®️番二",
-                "ext": "http://f2dcj6.com/sapi?ac=videolist"
+                "api": "http://f2dcj6.com/sapi?ac=videolist"
             },
             {
                 "name": "🔍®️黄片",
-                "ext": "https://www.pgxdy.com/api/json.php"
+                "api": "https://www.pgxdy.com/api/json.php"
             },
             {
                 "name": "🔍®️探探",
-                "ext": "https://apittzy.com/api.php/provide/vod/at/json"
+                "api": "https://apittzy.com/api.php/provide/vod/at/json"
             },
             {
                 "name": "🔍®️花魁",
-                "ext": "https://caiji.huakuiapi.com/inc/apijson_vod.php"
+                "api": "https://caiji.huakuiapi.com/inc/apijson_vod.php"
             },
             {
                 "name": "🔍®️皇冠",
-                "ext": "https://hghhh.com/api.php/provide/vod/at/json"
+                "api": "https://hghhh.com/api.php/provide/vod/at/json"
             },
             {
                 "name": "🔍®️森林",
-                "ext": "https://slapibf.com/api.php/provide/vod/at/json"
+                "api": "https://slapibf.com/api.php/provide/vod/at/json"
             },
             {
                 "name": "🔍®️0110",
-                "ext": "http://100.42.227.80/api/macs.php"
+                "api": "http://100.42.227.80/api/macs.php"
             },
             {
                 "name": "🔍®️美女",
-                "ext": "https://www.msnii.com/api/json.php"
+                "api": "https://www.msnii.com/api/json.php"
             },
             {
                 "name": "🔍®️淫水",
-                "ext": "https://www.xrbsp.com/api/json.php"
+                "api": "https://www.xrbsp.com/api/json.php"
             },
             {
                 "name": "🔍®️香奶",
-                "ext": "https://www.gdlsp.com/api/json.php"
+                "api": "https://www.gdlsp.com/api/json.php"
             },
             {
-                "ext": "https://www.kxgav.com/api/json.php"
+                "api": "https://www.kxgav.com/api/json.php"
             {
                 "name": "🔍®️湿妹",
-                "ext": "https://www.afasu.com/api/json.php"
+                "api": "https://www.afasu.com/api/json.php"
             },
             {
                 "name": "🔍®️大地",
-                "ext": "https://dadiapi.com/api.php"
+                "api": "https://dadiapi.com/api.php"
             }
         ]
