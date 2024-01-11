@@ -9,7 +9,6 @@
             },
             {
                 "name": "🍅番茄",
-                "type": 1,
                 "ext": "http://zy.xiaomaomi.cc/api.php/provide/vod/"
             },
             {
@@ -51,11 +50,11 @@
             {
                 "name": "🐝蜜蜂",
                 "ext": "https://www.beeyao.com/api.php/provide/vod/at/json"
-            }
+            },
             { 
                 "name": "🎛️明星",
                 "ext": "https://mv.wogg.link/mv/vod"
-
+            },
             {
                 "name": "🛫海外",
                 "ext": "http://api.haiwaikan.com/v1/vod?ac=list"
