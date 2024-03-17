@@ -17,9 +17,9 @@
     {
       "id": "94",
       "key": "官方[六优]",
-      "type": 0,
+      "type": 1,
       "name": "官方[六优]",
-      "api": "http://www.6uzy.cc/inc/apijson_vod.php",
+      "api": "http://www.6uzy.co/inc/apijson_vod.php",
       "download": "",
       "playUrl": "https://jx.jsonplayer.com/player/?url=",
       "group": "CMS",
@@ -67,7 +67,7 @@
       "group": "CMS",
       "search": 1,
       "status": true,
-      "isActive": false,
+      "isActive": true,
       "resource": 10761
     },
     {
