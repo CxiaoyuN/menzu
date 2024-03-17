@@ -31,7 +31,7 @@
     {
       "id": "97",
       "key": "官方[至圣]",
-      "type": 0,
+      "type": 1,
       "name": "官方[至圣]",
       "api": "http://82.156.40.118:1234/api.php/provide/vod/at/json",
       "download": "",
@@ -47,7 +47,7 @@
       "key": "官搜[琪琪]",
       "type": 0,
       "name": "官搜[琪琪]",
-      "api": "http://www.csykkj.club/api.php/provide/vod/",
+      "api": "http://www.csykkj.club/api.php/provide/vod/at/xml",
       "download": "",
       "playUrl": "https://jx.jsonplayer.com/player/?url=",
       "group": "CMS",
@@ -59,29 +59,15 @@
     {
       "id": "7",
       "key": "madou",
-      "type": 1,
-      "name": "®️麻豆",
-      "api": "http://wuxu.cc/api.php/provide/vod/from/mdm3u8/",
+      "type": 0,
+      "name": "官方[花旗]",
+      "api": "https://seacms.huaqi.live/zyapi.php",
       "download": "",
-      "playUrl": "",
+      "playUrl": "https://jx.jsonplayer.com/player/?url=",
       "group": "CMS",
       "search": 1,
       "status": true,
-      "isActive": true,
-      "resource": 10761
-    },
-    {
-      "id": "8",
-      "key": "xiezhen",
-      "type": 1,
-      "name": "®️写真",
-      "api": "https://kkzy.me/api.php/provide/vod/at/json",
-      "download": "",
-      "playUrl": "",
-      "group": "CMS",
-      "search": 1,
-      "status": true,
-      "isActive": true,
+      "isActive": false,
       "resource": 10761
     },
     {
@@ -70157,7 +70143,7 @@
   "tbl_analyze": [
     {
       "name": "777解析",
-      "url": "",
+      "url": "https://jx.jsonplayer.com/player/?url=",
       "isActive": true,
       "id": "1"
     }
@@ -70194,7 +70180,136 @@
       "id": "f865999e-e865-4083-88b9-af64787616d1"
     }
   ],
-  "tbl_history": [],
+  "tbl_history": [
+    {
+      "date": 1710507580,
+      "type": "film",
+      "relateId": "3",
+      "siteSource": "ukm3u8",
+      "playEnd": false,
+      "videoId": 50540,
+      "videoImage": "https://img.ukuapi.com/upload/vod/20240315-1/9492ebd7a39a34fa13a1e689f3be946a.jpg",
+      "videoName": "功夫熊猫4",
+      "videoIndex": "720P",
+      "watchTime": 43.329301,
+      "duration": 5050.32000000001,
+      "skipTimeInStart": 30,
+      "skipTimeInEnd": 30,
+      "id": "4beed9d7-53a8-4e05-91bd-ba1dbc5c3879"
+    },
+    {
+      "date": 1710507679,
+      "type": "film",
+      "relateId": "3",
+      "siteSource": "ukyun",
+      "playEnd": false,
+      "videoId": 50360,
+      "videoImage": "https://img.ukuapi.com/upload/vod/20240226-1/75309eb1dac9650648a8db91069ed504.jpg",
+      "videoName": "熊出没·逆转时空",
+      "videoIndex": "720P",
+      "watchTime": 5.003572,
+      "duration": 5460.0800000000045,
+      "skipTimeInStart": 30,
+      "skipTimeInEnd": 30,
+      "id": "53436377-20da-4992-8943-fa1a71447518"
+    },
+    {
+      "date": 1710507702,
+      "type": "film",
+      "relateId": "3",
+      "siteSource": "ukyun",
+      "playEnd": false,
+      "videoId": 50190,
+      "videoImage": "https://img.ukuapi.com/upload/vod/20240209-1/5dc9b9334e2e6dd560f4bd03c3e85ba4.jpg",
+      "videoName": "来都来了",
+      "videoIndex": "720P",
+      "watchTime": 220.743917,
+      "duration": 6167.600000000006,
+      "skipTimeInStart": 30,
+      "skipTimeInEnd": 30,
+      "id": "4fe5971e-512c-44f6-8a12-a3c400798195"
+    },
+    {
+      "date": 1710507854,
+      "type": "film",
+      "relateId": "3",
+      "siteSource": "ukyun",
+      "playEnd": false,
+      "videoId": 49752,
+      "videoImage": "https://img.ukuapi.com/upload/vod/20231231-1/26339ff0a798812b84983eda07961d10.jpg",
+      "videoName": "兄弟，请注意",
+      "videoIndex": "720P",
+      "watchTime": 0.448425,
+      "duration": 5627.063000000001,
+      "skipTimeInStart": 30,
+      "skipTimeInEnd": 30,
+      "id": "679d3228-a116-44a6-ac66-82c6af484af3"
+    },
+    {
+      "date": 1710512049,
+      "type": "film",
+      "relateId": "67",
+      "siteSource": "fhm3u8",
+      "playEnd": false,
+      "videoId": 67220,
+      "videoImage": "https://fengmian.fhfhtutu.com/upload/vod/2023/08/fvakqmvbojd.jpg",
+      "videoName": "新来的宝贝女人，全程露脸性感好身材，玩的就是嗨皮，掰开逼逼给狼友看特写，道具插入按摩棒摩擦，呻吟可射",
+      "videoIndex": "在线播放",
+      "watchTime": 10.804396,
+      "duration": 5026.862999999998,
+      "skipTimeInStart": 30,
+      "skipTimeInEnd": 30,
+      "id": "3d6f0086-6404-452b-bec6-8a2a91322674"
+    },
+    {
+      "date": 1710590459,
+      "type": "film",
+      "relateId": "10",
+      "siteSource": "49zyw",
+      "playEnd": true,
+      "videoId": 45049,
+      "videoImage": "https://49zyimgurl.com/upload/vod/20240315-1/4dbb20bbde7b067f1cb83b8dce17d847.jpg",
+      "videoName": "废品飞车",
+      "videoIndex": "HD",
+      "watchTime": 6170.88,
+      "duration": 6170.88,
+      "skipTimeInStart": 30,
+      "skipTimeInEnd": 30,
+      "id": "5571313e-6909-41d5-bacb-da2fec98df12"
+    },
+    {
+      "date": 1710594785,
+      "type": "film",
+      "relateId": "97",
+      "siteSource": "youku",
+      "playEnd": false,
+      "videoId": 140,
+      "videoImage": "https://2img.hitv.com/preview/sp_images/2022/05/06/202205060949489949687.jpg",
+      "videoName": "开心锤锤",
+      "videoIndex": "第680集",
+      "watchTime": 0,
+      "duration": null,
+      "skipTimeInStart": 30,
+      "skipTimeInEnd": 30,
+      "id": "2e8dbff3-b28f-4083-9027-e628c592e514"
+    },
+    {
+      "date": 1710594866,
+      "type": "film",
+      "relateId": "97",
+      "siteSource": "qiyi",
+      "playEnd": false,
+      "videoId": 4,
+      "videoImage": "https://pic8.iqiyipic.com/image/20231201/90/03/a_100006957_m_601_m64_579_772.jpg",
+      "videoName": "名侦探柯南",
+      "videoIndex": "第1171集",
+      "watchTime": 0,
+      "duration": null,
+      "skipTimeInStart": 30,
+      "skipTimeInEnd": 30,
+      "id": "cf17f375-021c-4746-8aac-57c238026979"
+    }
+  ],
   "tbl_star": [],
   "tbl_setting": [
     {
@@ -70264,7 +70379,7 @@
     },
     {
       "key": "defaultSite",
-      "value": 3,
+      "value": "3",
       "id": "d5d4cd07-616a-5428-91b7-ec2d0257b3a2"
     },
     {
@@ -70274,7 +70389,7 @@
     },
     {
       "key": "defaultAnalyze",
-      "value": 1,
+      "value": "1",
       "id": "d5d4cd07-616a-5428-91b7-ec2d0257b3a2"
     },
     {
